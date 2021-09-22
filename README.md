@@ -10,11 +10,11 @@
 
 - Slides: <Link>
 
-- Workshop Replay: <Link>
+- Webinar Replay: <Link>
 
 ## Table of Contents
-1. [Prerequisites](#Prerequisites)
-1. [IBM Developer](##IBMDeveloper)
+1. [Getting Started](#GettingStarted)
+1. [Learn and Connect](###LearnandConnect)
 1. [Developer Resources](##DeveloperResources)
 1. [Mobile](##Mobile)
 1. [Chatbots](##Chatbots)
@@ -25,7 +25,7 @@
 1. [Payments](##Payments)
 1. [Authors](##Authors)
   
-## Prerequisites
+## Getting Started
   
 **Sign up or Log in to IBM Cloud**
 
@@ -39,10 +39,11 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
   
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
-## IBM Developer 
+### Learn and Connect
 1. IBM Developer: https://developer.ibm.com/
 1. Follow us on Crowdcast: https://www.crowdcast.io/ibmdeveloper
 1. Join our meetup groups: https://www.meetup.com/ZA-IBMCloud/ and https://www.meetup.com/IBM-Cloud-MEA/
+1. TADHackZA 2021 Slack Channel - [7-sponsor-ibm](https://app.slack.com/client/T02DSDA196K/C02E4L58JAZ)
 
 ## Developer Resources
   
@@ -71,17 +72,22 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 1. Red Hat Marketplace - https://marketplace.redhat.com/en-us/products/ibm-blockchain/pricing (Provides a Free Trial Pricing Plan for 30 days)
  
 ## Payments
-1. Payeezy
+### Payeezy
 - IBM Cloud catalog - https://cloud.ibm.com/catalog/services/payeezy
 - Docs - https://developer.payeezy.com/apis
 - Getting Started with Payeezy - https://github.com/payeezy/get_started_with_payeezy/blob/master/README.md
  
-1. Dwolla
+### Dwolla
 - IBM Cloud catalog - https://cloud.ibm.com/catalog/services/dwolla
 - Docs - https://cloud.ibm.com/docs/Dwolla/index.html
 - Dwolla Developers - https://developers.dwolla.com/
 
-## Authors
-[Sbusiso MKhombe](https://github.com/1154046)
+## Tech Mentors
+[Sbusiso Mkhombe](https://github.com/1154046)
   
+Frans Mathapo
+  
+## Authors
 [@SBLANG](https://github.com/SBLANG)
+  
+[Sbusiso Mkhombe](https://github.com/1154046)
