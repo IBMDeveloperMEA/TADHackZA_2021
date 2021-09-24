@@ -47,21 +47,37 @@ And if you haven't, don't worry! We have got you covered! There are 3 steps to c
 
 ### IBM Developer
   
-The IBM Developer Site (https://developer.ibm.com/) is the home of IBM Developer Content.  
+The IBM Developer Site (https://developer.ibm.com/) is the home of IBM Developer Content. This is our landing page.
   
-This should be the landing page you see.
   
-  ![IBM Developer](https://user-images.githubusercontent.com/20628307/134635606-e336e5c8-9364-4acc-8f90-595609990682.png)
+![IBM Developer](https://user-images.githubusercontent.com/20628307/134635606-e336e5c8-9364-4acc-8f90-595609990682.png)
+
 
 You can utilize the search button to search for various keywords. Some great suggested searches: AI, JavaScript, Microservices, OpenShift, Docker, Security, etc..
   
   
 IBM Developer has a collection of articles, blogs code patterns( creme dela creme ), datasets, APIs, tutorials and videos you can choose from.
   
-After searching for a technology or keyword, you can filter your results accordingly, the next screenshot shows this in detail.
+Code patterns offer up complete solutions to problems that developers face every day. Code patterns leverage multiple technologies, products, or services to solve issues that our developer advocates have recognized as common use cases across multiple industries. There is a list of suggested code patterns in the next section. :)
+  
+After searching for a technology or keyword, you can filter your content results accordingly, the next screenshot shows this in detail.
 ![IBM Developer Filter](https://user-images.githubusercontent.com/20628307/134636673-4cf3c109-396b-4cff-aa4d-de486c38cc48.png)
 
+Each Code Pattern leads you through the use case, the objective and also shares the code which can be reused and tailored to fit your own use case. The Code Patterns also demonstrate how we can integrate IBM Services and Open Source Technologies into our applications.
 
+Continuing with what we were doing earlier, if we filter our AI search result to view code patterns, we can then select a desired pattern. 
+  
+![IBM Developer AI Search Result](https://user-images.githubusercontent.com/20628307/134638318-ff4d9cc3-8fa5-4c2c-bb25-e871b28da0d8.png)
+  
+When we have selected a Code Pattern, we can then click on "Get the code", which will redirect us to GitHub where all necessary project files resides.
+  
+![IBM Developer CP Page](https://user-images.githubusercontent.com/20628307/134638802-75e98723-a20f-44bc-b958-26f3804d9e28.png)
+
+
+
+#### Suggested Code Patterns: 
+  
+  
 ### Learn and Connect
 1. IBM Developer - [https://developer.ibm.com/](https://developer.ibm.com/)
 1. Follow us on Crowdcast - [https://www.crowdcast.io/ibmdeveloper](https://www.crowdcast.io/ibmdeveloper)
