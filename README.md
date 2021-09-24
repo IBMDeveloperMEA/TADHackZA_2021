@@ -44,6 +44,35 @@ And if you haven't, don't worry! We have got you covered! There are 3 steps to c
   
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
+  
+After Signing up or Login in. You will be redirected to the IBM Cloud Home Page.
+  
+![IBM Cloud Home Page](https://user-images.githubusercontent.com/20628307/134655349-be1bec09-df9d-43bc-996c-9743e6b0cb7b.png)
+
+From here, you can click on the catalog option next to the search bar to access all IBM Cloud Services and Offerings.
+  
+![IBM Cloud Catalog](https://user-images.githubusercontent.com/20628307/134655690-887a0e51-888e-462a-8b54-9cafc460ccff.png)
+
+You can then filter the services according to category, provider, type, delivery method, deployment target or release. 
+  
+Alternatively, you can search for desired service in the Search Bar.
+  
+As an example, we can search for an select Watson Studio. The results provide a quick summary of the displayed services.
+
+![IBM Cloud Watson Studio](https://user-images.githubusercontent.com/20628307/134656146-3d374314-a745-42e0-a636-0d1fa0d9af26.png)
+
+You can then click on the Watson Studio Service which will lead you to the service's provisioning page.
+  
+The landing page will allow you to enter a name for your service and create it, however you might find it beneficial to take a bit of time to read more about the service, its capabilities and potential use cases in the about section. :)
+  
+![IBM CLoud WS Prov](https://user-images.githubusercontent.com/20628307/134656817-1fcefaa1-9358-458d-9cc2-de7b719db947.png)
+  
+If you scroll down, on the left pane, there are very important documentation links which walk you through how to create a "Hello World" of the service, other examples and some API documentation as well.
+  
+![IBM CLoud WS About](https://user-images.githubusercontent.com/20628307/134656836-96da8f23-290e-41cd-9dc3-57f0d80320ba.png)
+
+
+Each service on the catalog can be interacted with in a simiar manner, please feel free to reach out to the mentors should you have any additional questions. :)
 
 ### IBM Developer
   
