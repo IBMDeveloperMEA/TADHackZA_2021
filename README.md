@@ -75,8 +75,10 @@ Continuing with what we were doing earlier, if we filter our AI search result to
   
   
 When we have selected a Code Pattern, we can then click on "Get the code", which will redirect us to GitHub where all necessary project files resides.
-  ![IBM Developer](https://user-images.githubusercontent.com/20628307/134639466-065b2c9f-5595-423b-8a85-d876e0c96dec.png)
 
+  ![IBM Developer CP Page](https://user-images.githubusercontent.com/20628307/134641820-56a15e42-d4e0-43ec-aa1b-db19dbc6c938.png)
+
+  
   
 You can also Click on "View Demo" to see how the app works without having to deploy it yourself. :)
 
