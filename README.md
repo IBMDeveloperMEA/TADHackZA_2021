@@ -73,9 +73,11 @@ Continuing with what we were doing earlier, if we filter our AI search result to
   ![IBM Developer AI Search Result](https://user-images.githubusercontent.com/20628307/134639400-f9d6ccb6-ccf3-47ca-af4f-64bcdea47495.png)
 
   
+  
 When we have selected a Code Pattern, we can then click on "Get the code", which will redirect us to GitHub where all necessary project files resides.
   ![IBM Developer](https://user-images.githubusercontent.com/20628307/134639466-065b2c9f-5595-423b-8a85-d876e0c96dec.png)
 
+  
 You can also Click on "View Demo" to see how the app works without having to deploy it yourself. :)
 
 #### Suggested Code Patterns: 
@@ -276,10 +278,17 @@ https://developer.ibm.com/patterns/control-your-smart-home-the-open-source-way-u
 - Docs - [https://cloud.ibm.com/docs/Dwolla/index.html](https://cloud.ibm.com/docs/Dwolla/index.html)
 - Dwolla Developers - [https://developers.dwolla.com/](https://developers.dwolla.com/)
 
-## Tech Mentors
+## Tech Mentors ( You can find us on our slack channel - https://app.slack.com/client/T02DSDA196K/C02E4L58JAZ ) 
 [Sbusiso Mkhombe](https://github.com/1154046)
+
+Reshav Haripersad
   
 Frans Mathapo
+
+Tshepiso Metswamere
+
+Deshan Naidoo
+  
   
 ## Authors
 [@SBLANG](https://github.com/SBLANG)
