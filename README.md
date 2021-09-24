@@ -278,7 +278,9 @@ https://developer.ibm.com/patterns/control-your-smart-home-the-open-source-way-u
 - Docs - [https://cloud.ibm.com/docs/Dwolla/index.html](https://cloud.ibm.com/docs/Dwolla/index.html)
 - Dwolla Developers - [https://developers.dwolla.com/](https://developers.dwolla.com/)
 
-## Tech Mentors ( You can find us on our slack channel - https://app.slack.com/client/T02DSDA196K/C02E4L58JAZ ) 
+## Tech Mentors 
+( You can find us on our slack channel - https://app.slack.com/client/T02DSDA196K/C02E4L58JAZ ) 
+
 [Sbusiso Mkhombe](https://github.com/1154046)
 
 Reshav Haripersad
