@@ -1,5 +1,10 @@
 # TADHackZA 2021
 
+
+Welcome to TADHackZA 2021. This page will guide you on how to get started with IBM Cloud and IBM Developer! 
+
+We will also share a few resources with you to kick start your development. :)
+
 <!-- Please refer to https://github.com/fawazsiddiqi/slides_to_pages to know how you can deploy slides to https://ibmdevelopermea.github.io -->
 
 ## Workshop Resources
@@ -38,6 +43,24 @@ And if you haven't, don't worry! We have got you covered! There are 3 steps to c
 **Please make sure you select the country you are in when asked at any step of the registration process.**
   
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
+
+
+### IBM Developer
+  
+The IBM Developer Site (https://developer.ibm.com/) is the home of IBM Developer Content.  
+  
+This should be the landing page you see.
+  
+  ![IBM Developer](https://user-images.githubusercontent.com/20628307/134635606-e336e5c8-9364-4acc-8f90-595609990682.png)
+
+You can utilize the search button to search for various keywords. Some great suggested searches: AI, JavaScript, Microservices, OpenShift, Docker, Security, etc..
+  
+  
+IBM Developer has a collection of articles, blogs code patterns( creme dela creme ), datasets, APIs, tutorials and videos you can choose from.
+  
+After searching for a technology or keyword, you can filter your results accordingly, the next screenshot shows this in detail.
+![IBM Developer Filter](https://user-images.githubusercontent.com/20628307/134636673-4cf3c109-396b-4cff-aa4d-de486c38cc48.png)
+
 
 ### Learn and Connect
 1. IBM Developer - [https://developer.ibm.com/](https://developer.ibm.com/)
