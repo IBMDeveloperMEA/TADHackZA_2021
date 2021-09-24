@@ -61,21 +61,176 @@ IBM Developer has a collection of articles, blogs code patterns( creme dela crem
 Code patterns offer up complete solutions to problems that developers face every day. Code patterns leverage multiple technologies, products, or services to solve issues that our developer advocates have recognized as common use cases across multiple industries. There is a list of suggested code patterns in the next section. :)
   
 After searching for a technology or keyword, you can filter your content results accordingly, the next screenshot shows this in detail.
-![IBM Developer Filter](https://user-images.githubusercontent.com/20628307/134636673-4cf3c109-396b-4cff-aa4d-de486c38cc48.png)
 
+  
+  ![IBM Developer Filter](https://user-images.githubusercontent.com/20628307/134639275-1a83b021-2b92-4e41-aebc-a33e6dfb2051.png)
+  
+  
 Each Code Pattern leads you through the use case, the objective and also shares the code which can be reused and tailored to fit your own use case. The Code Patterns also demonstrate how we can integrate IBM Services and Open Source Technologies into our applications.
 
 Continuing with what we were doing earlier, if we filter our AI search result to view code patterns, we can then select a desired pattern. 
-  
-![IBM Developer AI Search Result](https://user-images.githubusercontent.com/20628307/134638318-ff4d9cc3-8fa5-4c2c-bb25-e871b28da0d8.png)
+
+  ![IBM Developer AI Search Result](https://user-images.githubusercontent.com/20628307/134639400-f9d6ccb6-ccf3-47ca-af4f-64bcdea47495.png)
+
   
 When we have selected a Code Pattern, we can then click on "Get the code", which will redirect us to GitHub where all necessary project files resides.
-  
-![IBM Developer CP Page](https://user-images.githubusercontent.com/20628307/134638802-75e98723-a20f-44bc-b958-26f3804d9e28.png)
+  ![IBM Developer](https://user-images.githubusercontent.com/20628307/134639466-065b2c9f-5595-423b-8a85-d876e0c96dec.png)
 
-
+You can also Click on "View Demo" to see how the app works without having to deploy it yourself. :)
 
 #### Suggested Code Patterns: 
+Please have a look at some of these code patterns, which might be in line with your ideas.
+  
+  Please have a look at the following code patterns.
+ 
+1. Build an assistant to evaluate various health insurance policies:
+
+https://developer.ibm.com/patterns/build-an-assistant-to-evaluate-various-health-insurance-policies/
+
+ 
+
+2. Transcribe audio in real time or from an audio file:
+
+https://developer.ibm.com/patterns/transcribe-audio-in-real-time-or-from-an-audio-file/?mhsrc=ibmsearch_a&mhq=transcribe
+
+ 
+
+3. Extract insights from videos:
+
+https://developer.ibm.com/patterns/extract-textual-insights-from-a-given-video/?mhsrc=ibmsearch_a&mhq=transcribe
+
+ 
+
+4. Build a real-time translation app that can listen and speak:
+
+https://developer.ibm.com/patterns/build-a-real-time-translation-service-with-watson-api-kit/?mhsrc=ibmsearch_a&mhq=transcribe
+
+ 
+
+5. Build a secure microservices-based banking application
+
+https://developer.ibm.com/components/node-red/patterns/build-a-secure-microservices-based-application-with-transactional-flows/
+
+ 
+
+6. Consume and provide APIs with API Connect and Node.js
+
+https://developer.ibm.com/tutorials/consume-provide-api-with-api-connect-node/
+
+ 
+
+7. Build a framework that connects WhatsApp to Watson services
+
+https://developer.ibm.com/patterns/build-a-framework-that-connects-whatsapp-to-any-watson-service-on-ibm-cloud/
+
+ 
+
+8. Create a web application to optimize your supply chain inventory
+
+https://developer.ibm.com/patterns/leverage-decision-optimization-models-in-procurement-app-for-store-managers/
+
+ 
+
+9. Online order processing during pandemics
+
+https://developer.ibm.com/patterns/online-order-processing-system-during-pandemic/
+
+ 
+
+10. Build an image classification model
+
+https://developer.ibm.com/patterns/build-an-american-sign-language-alphabet-classifier-using-pytorch-and-gpu-environments-on-watson-studio/
+
+ 
+
+11. Identify patterns, relationships, and connections using data visualization
+
+https://developer.ibm.com/tutorials/data-visualization-a-powerful-tool-for-visualizing-insight-data-overview/
+
+ 
+
+12. Create an Internet of Things Platform Starter application
+
+https://developer.ibm.com/tutorials/how-to-create-an-internet-of-things-platform-starter-application/
+
+ 
+
+13. Turn your smartphone into an IoT device
+
+https://developer.ibm.com/tutorials/iot-mobile-phone-iot-device-bluemix-apps-trs/
+
+ 
+
+14. Analyze e-commerce websites and recommend optimal pricing
+
+https://developer.ibm.com/patterns/analyze-e-commerce-websites-and-recommend-optimal-product-pricing/
+
+ 
+
+15. Use Node.js with Cloudant DBaaS
+
+https://developer.ibm.com/tutorials/learn-nodejs-node-with-cloudant-dbaas/
+
+ 
+
+16. Create an app to perform intelligent searches on data
+
+https://developer.ibm.com/patterns/create-an-app-to-perform-intelligent-searches-on-data/
+
+ 
+
+17. Deploy a Watson Discovery application with New Relic observability on IBM Cloud Kubernetes Service
+
+https://developer.ibm.com/tutorials/deploy-a-simple-app-on-kubernetes-that-serves-a-web-app-and-communicates-with-watson-discovery]/
+
+ 
+
+18. Connect Watson IoT and HERE Tracking
+
+https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/
+
+ 
+
+19. Capture clickstream data from your ecommerce website
+
+https://developer.ibm.com/patterns/datastax-enterprise-dse-code-pattern-using-clickstream-data/
+
+ 
+
+20. Create a conversational voicebot using WhatsApp and Watson services
+
+https://developer.ibm.com/patterns/create-a-multilingual-voicebot-on-whatsapp-using-watson-services/
+
+ 
+
+21. Create a next-generation call center with Watson Assistant Phone Integration
+
+https://developer.ibm.com/patterns/create-a-next-generation-call-center-with-voice-gateway/
+
+ 
+
+22. Detect data anomalies using SingleStore on IBM Cloud Pak for Data
+
+https://developer.ibm.com/patterns/detect-anomalies-in-streaming-data/
+
+ 
+
+23. Deploy a cloud-native application on IBM Cloud for Financial Services
+
+https://developer.ibm.com/patterns/openshift-application-ibm-cloud-for-financial-services/
+
+ 
+
+24. Eliminate bias and enhance fairness in AI models using Cortex Certifai
+
+https://developer.ibm.com/patterns/eliminate-bias-and-enhance-fairness-in-ai-models-using-cortex-certifai/
+
+ 
+
+25. Control your smart home the open source way
+
+https://developer.ibm.com/patterns/control-your-smart-home-the-open-source-way-using-mqtt-bluetooth-and-node-red/
+  
   
   
 ### Learn and Connect
