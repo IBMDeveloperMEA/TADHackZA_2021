@@ -118,151 +118,151 @@ Please have a look at some of these code patterns, which might be in line with y
  
 1. Build an assistant to evaluate various health insurance policies:
 
-https://developer.ibm.com/patterns/build-an-assistant-to-evaluate-various-health-insurance-policies/
+[https://developer.ibm.com/patterns/build-an-assistant-to-evaluate-various-health-insurance-policies/](https://developer.ibm.com/patterns/build-an-assistant-to-evaluate-various-health-insurance-policies/)
 
  
 
 2. Transcribe audio in real time or from an audio file:
 
-https://developer.ibm.com/patterns/transcribe-audio-in-real-time-or-from-an-audio-file/?mhsrc=ibmsearch_a&mhq=transcribe
+[https://developer.ibm.com/patterns/transcribe-audio-in-real-time-or-from-an-audio-file/?mhsrc=ibmsearch_a&mhq=transcribe](https://developer.ibm.com/patterns/transcribe-audio-in-real-time-or-from-an-audio-file/?mhsrc=ibmsearch_a&mhq=transcribe)
 
  
 
 3. Extract insights from videos:
 
-https://developer.ibm.com/patterns/extract-textual-insights-from-a-given-video/?mhsrc=ibmsearch_a&mhq=transcribe
+[https://developer.ibm.com/patterns/extract-textual-insights-from-a-given-video/?mhsrc=ibmsearch_a&mhq=transcribe](https://developer.ibm.com/patterns/extract-textual-insights-from-a-given-video/?mhsrc=ibmsearch_a&mhq=transcribe)
 
  
 
 4. Build a real-time translation app that can listen and speak:
 
-https://developer.ibm.com/patterns/build-a-real-time-translation-service-with-watson-api-kit/?mhsrc=ibmsearch_a&mhq=transcribe
+[https://developer.ibm.com/patterns/build-a-real-time-translation-service-with-watson-api-kit/?mhsrc=ibmsearch_a&mhq=transcribe](https://developer.ibm.com/patterns/build-a-real-time-translation-service-with-watson-api-kit/?mhsrc=ibmsearch_a&mhq=transcribe)
 
  
 
 5. Build a secure microservices-based banking application
 
-https://developer.ibm.com/components/node-red/patterns/build-a-secure-microservices-based-application-with-transactional-flows/
+[https://developer.ibm.com/components/node-red/patterns/build-a-secure-microservices-based-application-with-transactional-flows/](https://developer.ibm.com/components/node-red/patterns/build-a-secure-microservices-based-application-with-transactional-flows/)
 
  
 
 6. Consume and provide APIs with API Connect and Node.js
 
-https://developer.ibm.com/tutorials/consume-provide-api-with-api-connect-node/
+[https://developer.ibm.com/tutorials/consume-provide-api-with-api-connect-node/](https://developer.ibm.com/tutorials/consume-provide-api-with-api-connect-node/)
 
  
 
 7. Build a framework that connects WhatsApp to Watson services
 
-https://developer.ibm.com/patterns/build-a-framework-that-connects-whatsapp-to-any-watson-service-on-ibm-cloud/
+[https://developer.ibm.com/patterns/build-a-framework-that-connects-whatsapp-to-any-watson-service-on-ibm-cloud/](https://developer.ibm.com/patterns/build-a-framework-that-connects-whatsapp-to-any-watson-service-on-ibm-cloud/)
 
  
 
 8. Create a web application to optimize your supply chain inventory
 
-https://developer.ibm.com/patterns/leverage-decision-optimization-models-in-procurement-app-for-store-managers/
+[https://developer.ibm.com/patterns/leverage-decision-optimization-models-in-procurement-app-for-store-managers/](https://developer.ibm.com/patterns/leverage-decision-optimization-models-in-procurement-app-for-store-managers/)
 
  
 
 9. Online order processing during pandemics
 
-https://developer.ibm.com/patterns/online-order-processing-system-during-pandemic/
+[https://developer.ibm.com/patterns/online-order-processing-system-during-pandemic/](https://developer.ibm.com/patterns/online-order-processing-system-during-pandemic/)
 
  
 
 10. Build an image classification model
 
-https://developer.ibm.com/patterns/build-an-american-sign-language-alphabet-classifier-using-pytorch-and-gpu-environments-on-watson-studio/
+[https://developer.ibm.com/patterns/build-an-american-sign-language-alphabet-classifier-using-pytorch-and-gpu-environments-on-watson-studio/](https://developer.ibm.com/patterns/build-an-american-sign-language-alphabet-classifier-using-pytorch-and-gpu-environments-on-watson-studio/)
 
  
 
 11. Identify patterns, relationships, and connections using data visualization
 
-https://developer.ibm.com/tutorials/data-visualization-a-powerful-tool-for-visualizing-insight-data-overview/
+[https://developer.ibm.com/tutorials/data-visualization-a-powerful-tool-for-visualizing-insight-data-overview/](https://developer.ibm.com/tutorials/data-visualization-a-powerful-tool-for-visualizing-insight-data-overview/)
 
  
 
 12. Create an Internet of Things Platform Starter application
 
-https://developer.ibm.com/tutorials/how-to-create-an-internet-of-things-platform-starter-application/
+[https://developer.ibm.com/tutorials/how-to-create-an-internet-of-things-platform-starter-application/](https://developer.ibm.com/tutorials/how-to-create-an-internet-of-things-platform-starter-application/)
 
  
 
 13. Turn your smartphone into an IoT device
 
-https://developer.ibm.com/tutorials/iot-mobile-phone-iot-device-bluemix-apps-trs/
+[https://developer.ibm.com/tutorials/iot-mobile-phone-iot-device-bluemix-apps-trs/](https://developer.ibm.com/tutorials/iot-mobile-phone-iot-device-bluemix-apps-trs/)
 
  
 
 14. Analyze e-commerce websites and recommend optimal pricing
 
-https://developer.ibm.com/patterns/analyze-e-commerce-websites-and-recommend-optimal-product-pricing/
+[https://developer.ibm.com/patterns/analyze-e-commerce-websites-and-recommend-optimal-product-pricing/](https://developer.ibm.com/patterns/analyze-e-commerce-websites-and-recommend-optimal-product-pricing/)
 
  
 
 15. Use Node.js with Cloudant DBaaS
 
-https://developer.ibm.com/tutorials/learn-nodejs-node-with-cloudant-dbaas/
+[https://developer.ibm.com/tutorials/learn-nodejs-node-with-cloudant-dbaas/](https://developer.ibm.com/tutorials/learn-nodejs-node-with-cloudant-dbaas/)
 
  
 
 16. Create an app to perform intelligent searches on data
 
-https://developer.ibm.com/patterns/create-an-app-to-perform-intelligent-searches-on-data/
+[https://developer.ibm.com/patterns/create-an-app-to-perform-intelligent-searches-on-data/](https://developer.ibm.com/patterns/create-an-app-to-perform-intelligent-searches-on-data/)
 
  
 
 17. Deploy a Watson Discovery application with New Relic observability on IBM Cloud Kubernetes Service
 
-https://developer.ibm.com/tutorials/deploy-a-simple-app-on-kubernetes-that-serves-a-web-app-and-communicates-with-watson-discovery]/
+[https://developer.ibm.com/tutorials/deploy-a-simple-app-on-kubernetes-that-serves-a-web-app-and-communicates-with-watson-discovery/](https://developer.ibm.com/tutorials/deploy-a-simple-app-on-kubernetes-that-serves-a-web-app-and-communicates-with-watson-discovery/)
 
  
 
 18. Connect Watson IoT and HERE Tracking
 
-https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/
+[https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
 
  
 
 19. Capture clickstream data from your ecommerce website
 
-https://developer.ibm.com/patterns/datastax-enterprise-dse-code-pattern-using-clickstream-data/
+[https://developer.ibm.com/patterns/datastax-enterprise-dse-code-pattern-using-clickstream-data/](https://developer.ibm.com/patterns/datastax-enterprise-dse-code-pattern-using-clickstream-data/)
 
  
 
 20. Create a conversational voicebot using WhatsApp and Watson services
 
-https://developer.ibm.com/patterns/create-a-multilingual-voicebot-on-whatsapp-using-watson-services/
+[https://developer.ibm.com/patterns/create-a-multilingual-voicebot-on-whatsapp-using-watson-services/](https://developer.ibm.com/patterns/create-a-multilingual-voicebot-on-whatsapp-using-watson-services/)
 
  
 
 21. Create a next-generation call center with Watson Assistant Phone Integration
 
-https://developer.ibm.com/patterns/create-a-next-generation-call-center-with-voice-gateway/
+[https://developer.ibm.com/patterns/create-a-next-generation-call-center-with-voice-gateway/](https://developer.ibm.com/patterns/create-a-next-generation-call-center-with-voice-gateway/)
 
  
 
 22. Detect data anomalies using SingleStore on IBM Cloud Pak for Data
 
-https://developer.ibm.com/patterns/detect-anomalies-in-streaming-data/
+[https://developer.ibm.com/patterns/detect-anomalies-in-streaming-data/](https://developer.ibm.com/patterns/detect-anomalies-in-streaming-data/)
 
  
 
 23. Deploy a cloud-native application on IBM Cloud for Financial Services
 
-https://developer.ibm.com/patterns/openshift-application-ibm-cloud-for-financial-services/
+[https://developer.ibm.com/patterns/openshift-application-ibm-cloud-for-financial-services/](https://developer.ibm.com/patterns/openshift-application-ibm-cloud-for-financial-services/)
 
  
 
 24. Eliminate bias and enhance fairness in AI models using Cortex Certifai
 
-https://developer.ibm.com/patterns/eliminate-bias-and-enhance-fairness-in-ai-models-using-cortex-certifai/
+[https://developer.ibm.com/patterns/eliminate-bias-and-enhance-fairness-in-ai-models-using-cortex-certifai/](https://developer.ibm.com/patterns/eliminate-bias-and-enhance-fairness-in-ai-models-using-cortex-certifai/)
 
  
 
 25. Control your smart home the open source way
 
-https://developer.ibm.com/patterns/control-your-smart-home-the-open-source-way-using-mqtt-bluetooth-and-node-red/
+[https://developer.ibm.com/patterns/control-your-smart-home-the-open-source-way-using-mqtt-bluetooth-and-node-red/](https://developer.ibm.com/patterns/control-your-smart-home-the-open-source-way-using-mqtt-bluetooth-and-node-red/)
   
   
   
