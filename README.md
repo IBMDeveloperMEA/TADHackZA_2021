@@ -28,7 +28,7 @@ We will also share a few resources with you to kick start your development. :)
 1. [Web Development](#Web-Development)
 1. [Blockchain](#Blockchain)
 1. [Payments](#Payments)
-1. [Authors](#Authors)
+1. [Authors](#Authors) 
   
 ## Getting Started
   
