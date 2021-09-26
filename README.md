@@ -18,17 +18,17 @@ We will also share a few resources with you to kick start your development. :)
 - Webinar Replay - <Link>
 
 ## Table of Contents
-1. [Getting Started](#GettingStarted)
-1. [Learn and Connect](###LearnandConnect)
-1. [Developer Resources](##DeveloperResources)
-1. [Mobile](##Mobile)
-1. [Chatbots](##Chatbots)
-1. [Messaging](##Messaging)
-1. [IoT](##IoT)
-1. [Web Development](##WebDevelopment)
-1. [Blockchain](##Blockchain)
-1. [Payments](##Payments)
-1. [Authors](##Authors)
+1. [Getting Started](#Getting-Started)
+1. [Learn and Connect](#Learn-and-Connect)
+1. [Developer Resources](#Developer-Resources)
+1. [Mobile](#Mobile)
+1. [Chatbots](#Chatbots)
+1. [Messaging](#Messaging)
+1. [IoT](#IoT)
+1. [Web Development](#Web-Development)
+1. [Blockchain](#Blockchain)
+1. [Payments](#Payments)
+1. [Authors](#Authors)
   
 ## Getting Started
   
