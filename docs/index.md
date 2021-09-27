@@ -10,7 +10,7 @@ We will also share a few resources with you to kick start your development. :)
 
 - Login/Sign Up for IBM Cloud - [https://ibm.biz/Bdf8Pt](https://ibm.biz/Bdf8Pt)
   
-- Webinar Replay - [TADHackZA 2021 - Webinar Sessions Streamed live on Sep 24, 2021 replay IBM Developer @ 01:22:34](https://www.youtube.com/watch?v=Aw_njlMJ7iA)
+- Webinar Replay - [TADHackZA 2021 - Webinar Sessions Streamed live on Sep 24, 2021 replay IBM Developer @ 01:22:34](https://youtu.be/Aw_njlMJ7iA?t=4954)
 
 ## Table of Contents
 1. [Getting Started](https://ibmdevelopermea.github.io/TADHackZA_2021/#GettingStarted)
